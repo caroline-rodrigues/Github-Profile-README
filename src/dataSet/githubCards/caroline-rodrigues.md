@@ -1,5 +1,3 @@
-<img align="right" width="350" height="350" src="https://cdn.lowgif.com/full/ab4a17955afa5191-girl-greeting-by-alexey-mozgovets-dribbble.gif">
-
 
 ## 👋  Hy, my name is Caroline Rodrigues:  
 
@@ -13,8 +11,6 @@ Frontend developer with 9+ years of experience, projecting and maintaining Web a
 🎮 I like to play video games and my pets pets 🐶🐱🐱
 
 ❤️ I love travelling 🛫🛬
-
-
 
 ## My social links:
 
